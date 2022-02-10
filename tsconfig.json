@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "target": "ESNext"
   },
   "include": [
 //    "sections/**/*"
